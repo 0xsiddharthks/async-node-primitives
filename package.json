@@ -1,0 +1,24 @@
+{
+  "name": "async-node-primitives",
+  "version": "1.0.0",
+  "description": "Multithreading and async primitives for typescript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsiddharthks/async-node-primitives.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0xsiddharthks/async-node-primitives/issues"
+  },
+  "dependencies": {
+    "axios": "^1.12.2"
+  },
+  "homepage": "https://github.com/0xsiddharthks/async-node-primitives#readme"
+}
